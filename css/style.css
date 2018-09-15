@@ -1,0 +1,20 @@
+.card{
+    margin: 0pc;
+    float: left;
+    margin-left: 45px;
+    margin-top: 200px;
+}
+button{
+    align-content: center;
+    background-color: black;
+    color: white;
+}
+.container{
+    float: left;
+    width: 900px;
+}
+script{
+margin-top: 50px;
+margin-left: 35%;
+
+}
